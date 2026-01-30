@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+folium
+seaborn
+matplotlib
+scikit-learn
+statsmodels
+scipy
+python-multipart
+streamlit==1.40.2
+pandas==2.2.3
+numpy==2.3.5
+plotly==5.24.1
+groq==0.13.0
