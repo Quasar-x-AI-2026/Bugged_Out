@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "33148592881",
+    "project_id": "buggedout-ab64b",
+    "storage_bucket": "buggedout-ab64b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33148592881:android:d883bf96d1b9bc2b29ff50",
+        "android_client_info": {
+          "package_name": "com.example.buggedout"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByGqIM76V2_h80CiafKoF98rNdZ0gXQD8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
