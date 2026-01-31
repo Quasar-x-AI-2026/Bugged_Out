@@ -367,3 +367,7 @@ def get_dataset_stats(dataset_id: int):
 @app.get("/health")
 def health():
     return {"status": "ok", "timestamp": datetime.utcnow().isoformat() + "Z"}
+
+if __name__ == "__main__":
+    import uvicorn
+    uvicorn.run("location:app", host="0.0.0.0", port=6003)
